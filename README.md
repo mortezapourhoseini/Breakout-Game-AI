@@ -7,7 +7,7 @@ A Python implementation of the classic Breakout game featuring **two modes**:
 ✅ **Human Mode** (Manual Play)  
 🤖 **AI Mode** (Autonomous AI Agent)
 
-<img src="screenshots/gameplay.gif" width="600" alt="AI Gameplay Demo">
+<img src="screen/2.png" width="600" alt="AI Gameplay Demo">
 
 ---
 
